@@ -1,4 +1,4 @@
-Version,Version_Season,Season,Advantage_Id,Advantage_Type,Clue_Details,Location_Found,Conditions,Season Advantage ID
+Version,Version_Season,Season,Advantage_Id,Advantage_Type,Clue_Details,Location_Found,Conditions,Season_Advantage_Id
 US,US11,11,1,Preventative Hidden Immunity Idol,Found without clue,Found around camp,Play before votes are cast,US111
 US,US12,12,1,Super Idol,Found on Exile,Advantage from Exile,Play after votes are read; Valid until F4,US121
 US,US13,13,1,Super Idol,Found on Exile,Advantage from Exile,Play after votes are read; Valid until F4,US131

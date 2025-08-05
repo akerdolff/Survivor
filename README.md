@@ -71,9 +71,8 @@ deactivate
 ## Project Overview
 
 ## Technologies used
-- Jupyter Notebook
-- Python
-- Pandas
-- SQLite
-- Git
-- Git Hub
+- Jupyter Notebook: Used to house coding and narrative
+- Python: 
+- Pandas: Used for cleaning and feature engineering
+- SQLite: Used to create a database and perform SQL queries
+- Git and GitHub: Used for version control
