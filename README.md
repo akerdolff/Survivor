@@ -1,8 +1,12 @@
 # Survivor Analysis: The Impact of Advantages
 
-## Data Dictionary
-**Castaways**
+## Project Overview
 
+This project analyses the relationship between advantages and a contestants final placement in Survivor. 
+
+## Data Dictionary
+
+**Castaways**
 | Field Name            | Data Type | Description                                                                                                                                        | Source        |
 | --------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | Version               | str       | Several countries have produced their own versions of Survivor. This indicates what country a record is associated with.                           | Original data |
@@ -21,8 +25,8 @@
 | Finale_Categorization | str       | Categorizes each player based on whether their place within the season was pre-jury, jury, finalist, or winner.                                    | Engineered    |
 | Era                   | str       | Categorizes each season into an era.                                                                                                               | Engineered    |
 
-**Advantage Details**
 
+**Advantage Details**
 | Field Name          | Data Type | Description                                                                                                              | Source        |
 | ------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | ------------- |
 | Version             | str       | Several countries have produced their own versions of Survivor. This indicates what country a record is associated with. | Original data |
@@ -37,8 +41,6 @@
 
 
 **Advantage Movement**
-
-
 | Field Name          | Data Type | Description                                                                                                                             | Source        |
 | ------------------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | Version             | str       | Several countries have produced their own versions of Survivor. This indicates what country a record is associated with                 | Original data |
@@ -116,11 +118,10 @@ deactivate
 ```
 
 
-## Project Overview
-
 ## Technologies used
 - Jupyter Notebook: Used to house coding and narrative
-- Python: 
+- Python: Used for cleaning, feature engineering, and querying
 - Pandas: Used for cleaning and feature engineering
 - SQLite: Used to create a database and perform SQL queries
+- Matplotlib: Used for data visualization
 - Git and GitHub: Used for version control
