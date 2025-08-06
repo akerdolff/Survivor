@@ -9,7 +9,6 @@ US,US01,1,Gretchen Cordy,US0007,7.0,7th voted out,nan,10,False,False,False,US01U
 US,US01,1,Greg Buis,US0008,8.0,8th voted out,1st jury member,9,True,False,False,US01US0008,Jury,Old School (pre-advantage)
 US,US01,1,Jenna Lewis,US0009,9.0,9th voted out,2nd jury member,8,True,False,False,US01US0009,Jury,Old School (pre-advantage)
 US,US08,8,Jenna Lewis,US0009,16.0,14th voted out,7th jury member,3,True,False,False,US08US0009,Jury,Old School (pre-advantage)
-US,US50,50,Jenna Lewis,US0009,,nan,nan,24,False,True,True,US50US0009,Winner,New Era
 US,US01,1,Gervase Peterson,US0010,10.0,10th voted out,3rd jury member,7,True,False,False,US01US0010,Jury,Old School (pre-advantage)
 US,US27,27,Gervase Peterson,US0010,21.0,2nd runner-up,nan,3,False,True,False,US27US0010,Finalist,New School
 US,US01,1,Colleen Haskell,US0011,11.0,11th voted out,4th jury member,6,True,False,False,US01US0011,Jury,Old School (pre-advantage)
@@ -48,7 +47,6 @@ US,US02,2,Keith Famie,US0030,14.0,13th voted out,7th jury member,3,True,False,Fa
 US,US02,2,Colby Donaldson,US0031,15.0,Runner-up,nan,2,False,True,False,US02US0031,Finalist,Old School (pre-advantage)
 US,US08,8,Colby Donaldson,US0031,7.0,5th voted out,nan,12,False,False,False,US08US0031,Voted out pre-jury,Old School (pre-advantage)
 US,US20,20,Colby Donaldson,US0031,16.0,16th voted out,8th jury member,5,True,False,False,US20US0031,Jury,Old School (with advantages)
-US,US50,50,Colby Donaldson,US0031,,nan,nan,23,False,True,True,US50US0031,Winner,New Era
 US,US02,2,Tina Wesson,US0032,16.0,Sole Survivor,nan,1,False,True,True,US02US0032,Winner,Old School (pre-advantage)
 US,US08,8,Tina Wesson,US0032,1.0,1st voted out,nan,18,False,False,False,US08US0032,Voted out pre-jury,Old School (pre-advantage)
 US,US27,27,Tina Wesson,US0032,20.0,17th voted out,8th jury member,4,True,False,False,US27US0032,Jury,New School
@@ -189,7 +187,6 @@ US,US10,10,Janu Tornell,US0143,13.0,Quit,2nd jury member,8,True,False,False,US10
 US,US10,10,Stephenie LaGrossa,US0144,14.0,10th voted out,3rd jury member,7,True,False,False,US10US0144,Jury,Old School (pre-advantage)
 US,US11,11,Stephenie LaGrossa,US0144,17.0,Runner-up,nan,2,False,True,False,US11US0144,Finalist,Old School (with advantages)
 US,US20,20,Stephenie LaGrossa,US0144,2.0,2nd voted out,nan,19,False,False,False,US20US0144,Voted out pre-jury,Old School (with advantages)
-US,US50,50,Stephenie LaGrossa,US0144,,nan,nan,22,False,True,True,US50US0144,Winner,New Era
 US,US10,10,Gregg Carey,US0145,15.0,11th voted out,4th jury member,6,True,False,False,US10US0145,Jury,Old School (pre-advantage)
 US,US10,10,Caryn Groedel,US0146,16.0,12th voted out,5th jury member,5,True,False,False,US10US0146,Jury,Old School (pre-advantage)
 US,US10,10,Jennifer Lyon,US0147,17.0,Lost fire challenge,6th jury member,4,True,False,False,US10US0147,Jury,Old School (pre-advantage)
@@ -230,7 +227,6 @@ US,US12,12,Cirie Fields,US0179,13.0,12th voted out,6th jury member,4,True,False,
 US,US16,16,Cirie Fields,US0179,18.0,15th voted out,8th jury member,3,True,False,False,US16US0179,Jury,Old School (with advantages)
 US,US20,20,Cirie Fields,US0179,4.0,4th voted out,nan,17,False,False,False,US20US0179,Voted out pre-jury,Old School (with advantages)
 US,US34,34,Cirie Fields,US0179,15.0,Eliminated,8th jury member,6,True,False,False,US34US0179,Jury,New School
-US,US50,50,Cirie Fields,US0179,,nan,nan,21,False,True,True,US50US0179,Winner,New Era
 US,US12,12,Terry Deitz,US0180,14.0,13th voted out,7th jury member,3,True,False,False,US12US0180,Jury,Old School (with advantages)
 US,US31,31,Terry Deitz,US0180,6.0,Withdrew,nan,15,False,False,False,US31US0180,Voted out pre-jury,New School
 US,US12,12,Danielle DiLorenzo,US0181,15.0,Runner-up,nan,2,False,True,False,US12US0181,Finalist,Old School (with advantages)
@@ -266,7 +262,6 @@ US,US13,13,Oscar Lusth,US0201,19.0,Runner-up,nan,2,False,True,False,US13US0201,F
 US,US16,16,Oscar Lusth,US0201,12.0,10th voted out,2nd jury member,9,True,False,False,US16US0201,Jury,Old School (with advantages)
 US,US23,23,Oscar Lusth,US0201,17.0,17th voted out,9th jury member,4,True,False,False,US23US0201,Jury,New School
 US,US34,34,Oscar Lusth,US0201,9.0,9th voted out,2nd jury member,12,True,False,False,US34US0201,Jury,New School
-US,US50,50,Oscar Lusth,US0201,,nan,nan,20,False,True,True,US50US0201,Winner,New Era
 US,US13,13,Yul Kwon,US0202,20.0,Sole Survivor,nan,1,False,True,True,US13US0202,Winner,Old School (with advantages)
 US,US40,40,Yul Kwon,US0202,9.0,9th voted out,6th jury member,14,True,False,False,US40US0202,Jury,New School
 US,US14,14,Jessica deBen,US0203,1.0,1st voted out,nan,19,False,False,False,US14US0203,Voted out pre-jury,Old School (with advantages)
@@ -360,7 +355,6 @@ US,US18,18,Debra Beebe,US0276,11.0,10th voted out,4th jury member,6,True,False,F
 US,US18,18,Benjamin Wade,US0277,12.0,11th voted out,5th jury member,5,True,False,False,US18US0277,Jury,Old School (with advantages)
 US,US20,20,Benjamin Wade,US0277,9.0,9th voted out,1st jury member,12,True,False,False,US20US0277,Jury,Old School (with advantages)
 US,US23,23,Benjamin Wade,US0277,19.0,Runner-up,nan,2,False,True,False,US23US0277,Finalist,New School
-US,US50,50,Benjamin Wade,US0277,,nan,nan,19,False,True,True,US50US0277,Winner,New Era
 US,US18,18,Tamara Johnson-George,US0278,13.0,12th voted out,6th jury member,4,True,False,False,US18US0278,Jury,Old School (with advantages)
 US,US18,18,Erinn Lobdell,US0279,14.0,13th voted out,7th jury member,3,True,False,False,US18US0279,Jury,Old School (with advantages)
 US,US18,18,Stephen Fishbach,US0280,15.0,Runner-up,nan,2,False,True,False,US18US0280,Finalist,Old School (with advantages)
@@ -615,7 +609,6 @@ US,US34,34,Tai Trang,US0476,17.0,16th voted out,10th jury member,4,True,False,Fa
 US,US32,32,Aubry Bracco,US0477,17.0,Runner-up,nan,2,False,True,False,US32US0477,Finalist,New School
 US,US34,34,Aubry Bracco,US0477,16.0,15th voted out,9th jury member,5,True,False,False,US34US0477,Jury,New School
 US,US38,38,Aubry Bracco,US0477,5.0,5th voted out,2nd jury member,16,True,False,False,US38US0477,Jury,New School
-US,US50,50,Aubry Bracco,US0477,,nan,nan,18,False,True,True,US50US0477,Winner,New Era
 US,US32,32,Michele Fitzgerald,US0478,18.0,Sole Survivor,nan,1,False,True,True,US32US0478,Winner,New School
 US,US40,40,Michele Fitzgerald,US0478,20.0,2nd runner-up,nan,3,False,True,False,US40US0478,Finalist,New School
 US,US33,33,Rachel Ako,US0479,1.0,1st voted out,nan,20,False,False,False,US33US0479,Voted out pre-jury,New School
@@ -659,7 +652,6 @@ US,US35,35,Mike Zahalsky,US0512,14.0,14th voted out,7th jury member,5,True,False
 US,US35,35,Devon Pinto,US0513,15.0,Lost final 4 fire challenge,8th jury member,4,True,False,False,US35US0513,Jury,New School
 US,US35,35,Ryan Ulrich,US0514,16.0,2nd runner-up,nan,3,False,True,False,US35US0514,Finalist,New School
 US,US35,35,Chrissy Hofbeck,US0515,17.0,Runner-up,nan,2,False,True,False,US35US0515,Finalist,New School
-US,US50,50,Chrissy Hofbeck,US0515,,nan,nan,17,False,True,True,US50US0515,Winner,New Era
 US,US35,35,Ben Driebergen,US0516,18.0,Sole Survivor,nan,1,False,True,True,US35US0516,Winner,New School
 US,US40,40,Ben Driebergen,US0516,18.0,18th voted out,15th jury member,5,True,False,False,US40US0516,Jury,New School
 US,US36,36,Stephanie Gonzalez,US0517,1.0,1st voted out,nan,20,False,False,False,US36US0517,Voted out pre-jury,New School
@@ -697,21 +689,17 @@ US,US37,37,Alec Merlino,US0547,11.0,9th voted out,4th jury member,10,True,False,
 US,US37,37,Carl Boudreaux,US0548,12.0,10th voted out,5th jury member,9,True,False,False,US37US0548,Jury,New School
 US,US37,37,Gabby Pascuzzi,US0549,13.0,11th voted out,6th jury member,8,True,False,False,US37US0549,Jury,New School
 US,US37,37,Christian Hubicki,US0550,14.0,12th voted out,7th jury member,7,True,False,False,US37US0550,Jury,New School
-US,US50,50,Christian Hubicki,US0550,,nan,nan,16,False,True,True,US50US0550,Winner,New Era
 US,US37,37,Davie Rickenbacker,US0551,15.0,13th voted out,8th jury member,6,True,False,False,US37US0551,Jury,New School
 US,US37,37,Alison Raybould,US0552,16.0,14th voted out,9th jury member,5,True,False,False,US37US0552,Jury,New School
 US,US37,37,Kara Kay,US0553,17.0,Lost final 4 fire challenge,10th jury member,4,True,False,False,US37US0553,Jury,New School
 US,US37,37,Angelina Keeley,US0554,18.0,2nd runner-up,nan,3,False,True,False,US37US0554,Finalist,New School
-US,US50,50,Angelina Keeley,US0554,,nan,nan,15,False,True,True,US50US0554,Winner,New Era
 US,US37,37,Mike White,US0555,19.0,Runner-up,nan,2,False,True,False,US37US0555,Finalist,New School
-US,US50,50,Mike White,US0555,,nan,nan,14,False,True,True,US50US0555,Winner,New Era
 US,US37,37,Nick Wilson,US0556,20.0,Sole Survivor,nan,1,False,True,True,US37US0556,Winner,New School
 US,US40,40,Nick Wilson,US0556,16.0,16th voted out,13th jury member,7,True,False,False,US40US0556,Jury,New School
 US,US38,38,Reem Daly,US0557,1.0,1st voted out,1st jury member,18,True,False,False,US38US0557,Jury,New School
 US,US38,38,Keith Sowell,US0558,2.0,2nd voted out; Quit EoE,nan,17,False,False,False,US38US0558,Voted out pre-jury,New School
 US,US38,38,Chris Underwood,US0559,20.0,Sole Survivor,nan,1,False,True,True,US38US0559,Winner,New School
 US,US38,38,Rick Devens,US0560,17.0,Lost final 4 fire challenge,13th jury member,4,True,False,False,US38US0560,Jury,New School
-US,US50,50,Rick Devens,US0560,,nan,nan,13,False,True,True,US50US0560,Winner,New Era
 US,US38,38,Wendy Diaz,US0561,6.0,6th voted out; Quit EoE,nan,15,False,False,False,US38US0561,Voted out pre-jury,New School
 US,US38,38,Eric Hafemann,US0562,8.0,8th voted out,4th jury member,13,True,False,False,US38US0562,Jury,New School
 US,US38,38,Julia Carter,US0563,9.0,9th voted out,5th jury member,12,True,False,False,US38US0563,Jury,New School
@@ -767,7 +755,6 @@ US,US42,42,Hai Giang,US0612,11.0,10th voted out,4th jury member,8,True,False,Fal
 US,US42,42,Jackson Fox,US0613,1.0,Medically evacuated,nan,18,False,False,False,US42US0613,Voted out pre-jury,New Era
 US,US42,42,Jenny Kim,US0614,4.0,3rd voted out,nan,15,False,False,False,US42US0614,Voted out pre-jury,New Era
 US,US42,42,Jonathan Young,US0615,15.0,Lost final 4 fire challenge,8th jury member,4,True,False,False,US42US0615,Jury,New Era
-US,US50,50,Jonathan Young,US0615,,nan,nan,12,False,True,True,US50US0615,Winner,New Era
 US,US42,42,Lindsay Dolashewich,US0616,14.0,13th voted out,7th jury member,5,True,False,False,US42US0616,Jury,New Era
 US,US42,42,Lydia Meredith,US0617,7.0,6th voted out,nan,12,False,False,False,US42US0617,Voted out pre-jury,New Era
 US,US42,42,Marya Sherron,US0618,3.0,2nd voted out,nan,16,False,False,False,US42US0618,Voted out pre-jury,New Era
@@ -820,10 +807,8 @@ US,US45,45,Austin Li Coon,US0663,17.0,Runner-up,nan,2,False,True,False,US45US066
 US,US45,45,Brando Meyer,US0664,5.0,4th voted out,nan,14,False,False,False,US45US0664,Voted out pre-jury,New Era
 US,US45,45,Brandon Donlon,US0665,2.0,1st voted out,nan,17,False,False,False,US45US0665,Voted out pre-jury,New Era
 US,US45,45,Dee Valladares,US0666,18.0,Sole Survivor,nan,1,False,True,True,US45US0666,Winner,New Era
-US,US50,50,Dee Valladares,US0666,,nan,nan,11,False,True,True,US50US0666,Winner,New Era
 US,US45,45,Drew Basile,US0667,13.0,12th voted out,6th jury member,6,True,False,False,US45US0667,Jury,New Era
 US,US45,45,Emily Flippen,US0668,12.0,11th voted out,5th jury member,7,True,False,False,US45US0668,Jury,New Era
-US,US50,50,Emily Flippen,US0668,,nan,nan,10,False,True,True,US50US0668,Winner,New Era
 US,US45,45,Hannah Rose,US0669,1.0,Quit,nan,18,False,False,False,US45US0669,Voted out pre-jury,New Era
 US,US45,45,J. Maya,US0670,6.0,5th voted out,nan,13,False,False,False,US45US0670,Voted out pre-jury,New Era
 US,US45,45,Jake O'Kane,US0671,16.0,2nd runner-up,nan,3,False,True,False,US45US0671,Finalist,New Era
@@ -838,7 +823,6 @@ US,US45,45,Sifu Alsup,US0679,7.0,6th voted out,nan,12,False,False,False,US45US06
 US,US46,46,Ben Katzman,US0680,16.0,2nd runner-up,nan,3,False,True,False,US46US0680,Finalist,New Era
 US,US46,46,Bhanu Gopal,US0681,4.0,3rd voted out,nan,15,False,False,False,US46US0681,Voted out pre-jury,New Era
 US,US46,46,Charlie Davis,US0682,17.0,Runner-up,nan,2,False,True,False,US46US0682,Finalist,New Era
-US,US50,50,Charlie Davis,US0682,,nan,nan,9,False,True,True,US50US0682,Winner,New Era
 US,US46,46,David Jelinsky,US0683,1.0,1st voted out,nan,18,False,False,False,US46US0683,Voted out pre-jury,New Era
 US,US46,46,Hunter McKnight,US0684,10.0,9th voted out,3rd jury member,9,True,False,False,US46US0684,Jury,New Era
 US,US46,46,Jem Hussain-Adams,US0685,5.0,4th voted out,nan,14,False,False,False,US46US0685,Voted out pre-jury,New Era
@@ -848,12 +832,10 @@ US,US46,46,Liz Wilcox,US0688,15.0,Lost final 4 fire challenge,8th jury member,4,
 US,US46,46,Maria Shrime Gonzalez,US0689,14.0,13th voted out,7th jury member,5,True,False,False,US46US0689,Jury,New Era
 US,US46,46,Moriah Gaynor,US0690,6.0,5th voted out,nan,13,False,False,False,US46US0690,Voted out pre-jury,New Era
 US,US46,46,Q Burdette,US0691,13.0,12th voted out,6th jury member,6,True,False,False,US46US0691,Jury,New Era
-US,US50,50,Q Burdette,US0691,,nan,nan,8,False,True,True,US50US0691,Winner,New Era
 US,US46,46,Randen Montalvo,US0692,3.0,Medically evacuated,nan,16,False,False,False,US46US0692,Voted out pre-jury,New Era
 US,US46,46,Soda Thompson,US0693,8.0,7th voted out,1st jury member,11,True,False,False,US46US0693,Jury,New Era
 US,US46,46,Tevin Davis,US0694,9.0,8th voted out,2nd jury member,10,True,False,False,US46US0694,Jury,New Era
 US,US46,46,Tiffany Nicole Ervin,US0695,11.0,10th voted out,4th jury member,8,True,False,False,US46US0695,Jury,New Era
-US,US50,50,Tiffany Nicole Ervin,US0695,,nan,nan,7,False,True,True,US50US0695,Winner,New Era
 US,US46,46,Tim Spicer,US0696,7.0,6th voted out,nan,12,False,False,False,US46US0696,Voted out pre-jury,New Era
 US,US46,46,Venus Vafa,US0697,12.0,11th voted out,5th jury member,7,True,False,False,US46US0697,Jury,New Era
 US,US47,47,Andy Rueda,US0698,13.0,13th voted out,6th jury memmber,6,True,False,False,US47US0698,Jury,New Era
@@ -862,7 +844,6 @@ US,US47,47,Aysha Welch,US0700,3.0,3rd voted out,nan,16,False,False,False,US47US0
 US,US47,47,Caroline Vidmar,US0701,12.0,12th voted out,5th jury member,7,True,False,False,US47US0701,Jury,New Era
 US,US47,47,Gabe Ortis,US0702,10.0,10th voted out,3rd jury member,9,True,False,False,US47US0702,Jury,New Era
 US,US47,47,Genevieve Mushaluk,US0703,14.0,14th voted out,7th jury member,5,True,False,False,US47US0703,Jury,New Era
-US,US50,50,Genevieve Mushaluk,US0703,,nan,nan,6,False,True,True,US50US0703,Winner,New Era
 US,US47,47,Jon Lovett,US0704,1.0,1st voted out,nan,18,False,False,False,US47US0704,Voted out pre-jury,New Era
 US,US47,47,Kishan Patel,US0705,4.0,4th voted out,nan,15,False,False,False,US47US0705,Voted out pre-jury,New Era
 US,US47,47,Kyle Ostwald,US0706,11.0,11th voted out,4th jury member,8,True,False,False,US47US0706,Jury,New Era
@@ -882,13 +863,10 @@ US,US48,48,Chrissy Sarnowsky,US0719,9.0,9th voted out,2nd jury member,10,True,Fa
 US,US48,48,David Kinne,US0720,10.0,10th voted out,3rd jury member,9,True,False,False,US48US0720,Jury,New Era
 US,US48,48,Eva Erickson,US0721,17.0,Runner-up,nan,2,False,True,False,US48US0721,Finalist,New Era
 US,US48,48,Joe Hunter,US0722,16.0,2nd runner-up,nan,3,False,True,False,US48US0722,Finalist,New Era
-US,US50,50,Joe Hunter,US0722,,nan,nan,5,False,True,True,US50US0722,Winner,New Era
 US,US48,48,Justin Pioppi,US0723,3.0,3rd voted out,nan,16,False,False,False,US48US0723,Voted out pre-jury,New Era
 US,US48,48,Kamilla Karthigesu,US0724,15.0,Eliminated,8th jury member,4,True,False,False,US48US0724,Jury,New Era
-US,US50,50,Kamilla Karthigesu,US0724,,nan,nan,4,False,True,True,US50US0724,Winner,New Era
 US,US48,48,Kevin Leung,US0725,2.0,2nd voted out,nan,17,False,False,False,US48US0725,Voted out pre-jury,New Era
 US,US48,48,Kyle Fraser,US0726,18.0,Sole Survivor,nan,1,False,True,True,US48US0726,Winner,New Era
-US,US50,50,Kyle Fraser,US0726,,nan,nan,3,False,True,True,US50US0726,Winner,New Era
 US,US48,48,Mary Zheng,US0727,12.0,12th voted out,5th jury member,7,True,False,False,US48US0727,Jury,New Era
 US,US48,48,Mitch Guerra,US0728,14.0,14th voted out,7th jury member,5,True,False,False,US48US0728,Jury,New Era
 US,US48,48,Sai Hughley,US0729,7.0,7th voted out,nan,12,False,False,False,US48US0729,Voted out pre-jury,New Era
@@ -896,23 +874,3 @@ US,US48,48,Shauhin Davari,US0730,13.0,13th voted out,6th jury member,6,True,Fals
 US,US48,48,Star Toomey,US0731,11.0,11th voted out,4th jury member,8,True,False,False,US48US0731,Jury,New Era
 US,US48,48,Stephanie Berger,US0732,1.0,1st voted out,nan,18,False,False,False,US48US0732,Voted out pre-jury,New Era
 US,US48,48,Thomas Krottinger,US0733,4.0,4th voted out,nan,15,False,False,False,US48US0733,Voted out pre-jury,New Era
-US,US49,49,TBD1,US0734,,nan,nan,18,False,True,True,US49US0734,Winner,New Era
-US,US50,50,TBD1,US0734,,nan,nan,2,False,True,True,US50US0734,Winner,New Era
-US,US49,49,TBD2,US0735,,nan,nan,17,False,True,True,US49US0735,Winner,New Era
-US,US50,50,TBD2,US0735,,nan,nan,1,False,True,True,US50US0735,Winner,New Era
-US,US49,49,TBD3,US0736,,nan,nan,16,False,True,True,US49US0736,Winner,New Era
-US,US49,49,TBD4,US0737,,nan,nan,15,False,True,True,US49US0737,Winner,New Era
-US,US49,49,TBD5,US0738,,nan,nan,14,False,True,True,US49US0738,Winner,New Era
-US,US49,49,TBD6,US0739,,nan,nan,13,False,True,True,US49US0739,Winner,New Era
-US,US49,49,TBD7,US0740,,nan,nan,12,False,True,True,US49US0740,Winner,New Era
-US,US49,49,TBD8,US0741,,nan,nan,11,False,True,True,US49US0741,Winner,New Era
-US,US49,49,TBD9,US0742,,nan,nan,10,False,True,True,US49US0742,Winner,New Era
-US,US49,49,TBD10,US0743,,nan,nan,9,False,True,True,US49US0743,Winner,New Era
-US,US49,49,TBD11,US0744,,nan,nan,8,False,True,True,US49US0744,Winner,New Era
-US,US49,49,TBD12,US0745,,nan,nan,7,False,True,True,US49US0745,Winner,New Era
-US,US49,49,TBD13,US0746,,nan,nan,6,False,True,True,US49US0746,Winner,New Era
-US,US49,49,TBD14,US0747,,nan,nan,5,False,True,True,US49US0747,Winner,New Era
-US,US49,49,TBD15,US0748,,nan,nan,4,False,True,True,US49US0748,Winner,New Era
-US,US49,49,TBD16,US0749,,nan,nan,3,False,True,True,US49US0749,Winner,New Era
-US,US49,49,TBD17,US0750,,nan,nan,2,False,True,True,US49US0750,Winner,New Era
-US,US49,49,TBD18,US0751,,nan,nan,1,False,True,True,US49US0751,Winner,New Era
