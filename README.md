@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-This project analyses the relationship between advantages and a contestants final placement in Survivor. 
+This project analyses the relationship between advantages and a contestants final placement in Survivor. It specifically looks at data from the United States seasons of Survivor in order to determine whether advantages have any impact on who ends up being The Sole Survivor. 
+
+### Data Summary
 
 ## Data Dictionary
 
@@ -55,8 +57,6 @@ This project analyses the relationship between advantages and a contestants fina
 | Season_Castaway_Id  | str       | Unique ID representing an individuals participation in a specific season                                                                | Engineered    |
 | Movement_Id         | str       | Primary Key. Unique ID assigned to each advantage movement                                                                              | Engineered    |
 
-
-## Data Summary
 
 ## Data Source
 
