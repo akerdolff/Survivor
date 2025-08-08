@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project analyses the relationship between advantages and a contestants final placement in Survivor. It specifically looks at data from the United States seasons of Survivor in order to determine whether advantages have any impact on who ends up being The Sole Survivor. 
+This project analyses the relationship between advantages and a castaway's final standing in Survivor. It specifically looks at data from the United States seasons of Survivor in order to determine whether advantages have any impact on who ends up being The Sole Survivor. Advantages were introduced in Season 11, so the analysis looks specifically at seasons 11 to 48 (the most recently aired season at the time this analysis was conducted).
 
-### Data Summary
+The Survivor Data Wrangling notebook cleans the data and adds additional columns to be used for analysis. The Survivor Analysis notebook takes that data and turns it in to charts to uncover insights. 
 
 ## Data Dictionary
 
