@@ -4,3 +4,4 @@ env/
 castaways_clean.csv
 advantage_details_clean.csv
 advantage_movement_clean.csv
+~$*.xlsx
